@@ -1,0 +1,4 @@
+# Prevent  Directory listing
+options -indexes
+# echo error message
+error.document "46"

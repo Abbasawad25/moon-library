@@ -1,0 +1,7 @@
+<style>
+.k2-copy-button svg{margin-right: 10px;vertical-align: top;}  
+.k2-copy-button{
+  height: 45px; width: 155px; color: #fff; background: #265df2; outline: none; border: none; border-radius: 8px; font-size: 17px; font-weight: 400; margin: 8px 0; cursor: pointer; transition: all 0.4s ease;}
+.k2-copy-button:hover{background: #2ECC71;}
+@media (max-width: 48px) {#k2button{width: 100%;}}
+</style>
